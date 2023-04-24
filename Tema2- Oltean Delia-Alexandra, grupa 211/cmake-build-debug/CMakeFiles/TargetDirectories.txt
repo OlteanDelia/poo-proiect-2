@@ -1,0 +1,3 @@
+C:/Users/X/Desktop/facultate/poo/Tema2- Oltean Delia-Alexandra, grupa 211/cmake-build-debug/CMakeFiles/Tema2__Oltean_Delia_Alexandra__grupa_211.dir
+C:/Users/X/Desktop/facultate/poo/Tema2- Oltean Delia-Alexandra, grupa 211/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/X/Desktop/facultate/poo/Tema2- Oltean Delia-Alexandra, grupa 211/cmake-build-debug/CMakeFiles/rebuild_cache.dir
